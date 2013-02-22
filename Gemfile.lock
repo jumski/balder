@@ -66,6 +66,7 @@ GEM
     mini_magick (3.4)
       subexec (~> 0.2.1)
     multi_json (1.5.1)
+    mysql2 (0.3.11)
     net-scp (1.0.4)
       net-ssh (>= 1.99.1)
     net-ssh (2.3.0)
@@ -128,6 +129,7 @@ DEPENDENCIES
   mime-types
   mini_exiftool_vendored
   mini_magick
+  mysql2
   pg
   rails (= 3.2.12)
   sqlite3-ruby

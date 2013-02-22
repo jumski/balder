@@ -7,6 +7,7 @@ end
 gem 'rails', '3.2.12'
 
 gem 'authlogic'
+gem 'mysql2'
 
 gem 'mime-types', :require => 'mime/types'
 gem 'carrierwave', '0.6.1'
